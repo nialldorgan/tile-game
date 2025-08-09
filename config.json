@@ -1,0 +1,21 @@
+{
+    "difficulty_levels": [
+        {
+            "level": "Easy",
+            "moves": 20
+        },
+        {
+            "level": "Moderate",
+            "moves": 30
+        },
+        {
+            "level": "Hard",
+            "moves": 40
+        }
+    ],
+    "default_piece_profile" : {
+        "color": "purple",
+        "display_index": true,
+        "img": null
+    }
+}
